@@ -13,7 +13,7 @@ type signDataType = {
  const signs = [
     {
         engName: "lums university",
-        urduName: "lums university   یونیورسٹی",
+        urduName: "lums یونیورسٹی",
         tailwindcolor : "bg-blue-500"
     },
     {
