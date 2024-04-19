@@ -19,7 +19,7 @@ type signDataType = {
     {
         engName: "DHA phase 5 ,6",
         urduName: "ڈی ایچ اے فیز 5 ،6",
-        tailwindcolor : "bg-teal-700"
+        tailwindcolor : "bg-teal-600"
     } ,
     
 
